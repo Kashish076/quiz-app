@@ -1,0 +1,96 @@
+.questions {
+    border-left: 5px solid var(--blue);
+    width: 80%;
+    margin: var(--lg) auto 0 auto;
+    padding: var(--sm) var(--md);
+
+    .lifeline-container {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .lifeline{
+        position: relative;
+        top: -3px;
+    }
+
+    h3{
+        font-size: 1.2rem;
+        margin-bottom: lg;
+        line-height: 1.5;
+        text-align: center;
+    }
+
+    .options-container {
+        display: inline-block;
+        width: 50%;
+    }
+
+    .option {
+        background-color: var(--blue);
+        border-radius: var(--button-radius);
+        color: white;
+        cursor: pointer;
+        margin: var(--md);
+        padding: var(--normal);
+        transition: 0.3s linear all;
+        text-align: center;
+        width: 90%;
+        box-shadow: var(--shadow);
+    }
+
+    .option:hover {
+        color: darken(var(--blue));
+        background-color: darken(var(--blue));
+    }
+
+    .button-container {
+        display: flex;
+        justify-content: flex-start;
+        margin: 0 auto var(--sm) auto;
+        padding: var(--md);
+        width: 80%;
+    }
+
+    .button-container button {
+        border: none;
+        color: var(--off-white);
+        cursor: pointer;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-right: var(--md);
+        padding: var(--xs) var(--sm);
+    }
+
+    .button-container button:first-child {
+        background-color: var(--blue);
+        box-shadow: var(--shadow);
+        transition: 0.2s linear all;
+    }
+
+    .button-container button:first-child:hover {
+        background-color: darken(var(--blue));
+        color: var(--blue);
+    }
+
+    .button-container button:nth-child(2) {
+        background-color: var(--blue);
+        box-shadow: var(--shadow);
+        transition: 0.2s linear all;
+    }
+
+    .button-container button:nth-child(2):hover {
+        background-color: darken(var(--blue));
+        color: var(--blue);
+    }
+
+    .button-container button:nth-child(3) {
+        background-color: var(--orange);
+        box-shadow: var(--shadow);
+        transition: 0.2s linear all;
+    }
+
+    .button-container button:nth-child(3):hover {
+        background-color: darken(var(--orange));
+        color: var(--orange);
+    }
+}

@@ -1,0 +1,106 @@
+#home {
+    background-image: url('../../assets/img/background.png');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    width: auto;
+
+    section {
+        background-color: rgba(0, 0, 0, 0.7);
+        padding-left: var(--md);
+        padding-right: var(--md);
+        height: 80%;
+        width: 45%;
+        margin-top: auto;
+        margin-bottom: auto;
+        border-radius: 5px;
+    }
+
+    .cube {
+        font-size: 8rem;
+        color: var(--off-white);
+    }
+
+    h1 {
+        font-size: var(--lg);
+        text-align: center;
+        color: rgb(227, 97, 188);
+    }
+
+    .play-button-container {
+        width: 100%;
+    }
+
+    a.play-button,
+    #login-button,
+    #signup-button {
+        background-color: var(--blue);
+        /* Change to orange */
+        border-radius: 30px;
+        color: white;
+        cursor: pointer;
+        padding: var(--normal);
+        display: block;
+        text-align: center;
+        border: solid black;
+        transition: 0.3s linear all;
+        margin-bottom: var(--normal);
+    }
+
+    a.play-button:hover,
+    #login-button:hover,
+    #signup-button:hover {
+        background-color: darken(var(--orange), 10%);
+        box-shadow: var(--shadow);
+    }
+
+    .auth-container {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        /* margin-top: var(--lg); */
+    }
+
+    #login-button {
+        width: 60%;
+        background-color: var(--orange);
+    }
+
+    /* #login-button:hover {
+        background-color: darken(var(--orange), 10%);
+        box-shadow: var(--shadow);
+    } */
+
+    #signup-button {
+        width: 60%;
+        background-color: var(--error-text);
+    }
+
+    /* #signup-button:hover {
+        background-color: darken(var(--orange), 10%);
+        box-shadow: var(--shadow);
+    } */
+
+    .auth-container .auth-button {
+        color: white;
+        cursor: pointer;
+        border-radius: 30px;
+        padding: var(--normal);
+        text-align: center;
+        width: 45%;
+        border: solid black;
+        transition: 0.3s linear all;
+    }
+}
+
+@media (min-height: 768px) {
+    #home {
+        section {
+            padding: 0 var(--normal);
+            width: 100%;
+            height: 100%;
+        }
+    }
+}

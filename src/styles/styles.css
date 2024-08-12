@@ -1,0 +1,5 @@
+@import './components/home';
+@import './base/base';
+@import './base/settings.css';
+@import './components/_quiz-instructions.css';
+@import './components/_play.css';

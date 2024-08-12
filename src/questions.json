@@ -1,0 +1,135 @@
+[
+    {
+        "question": "What was the destination of the missing flight MH370?",
+        "optionA": "Beijing",
+        "optionB": "Kuala Lumpur",
+        "optionC": "Singapore",
+        "optionD": "Tokyo",
+        "answer": "Beijing"
+    },
+    {
+        "question": "According to the BBPA, what is the most common pub name in the UK?",
+        "optionA": "Red Lion",
+        "optionB": "Royal Oak",
+        "optionC": "White Hart",
+        "optionD": "King&#039;s Head",
+        "answer": "Red Lion"
+    },
+    {
+        "question": "What is the Portuguese word for &quot;Brazil&quot;?",
+        "answer": "Brasil",
+        "optionA": "Brasil",
+        "optionB": "Brazil",
+        "optionC": "Brasilia",
+        "optionD": "Bras&iacute;l"
+        
+    },
+    {
+        "question": "What is the star sign of someone born on Valentines day?",
+        "answer": "Aquarius",
+        "optionA": "Aquarius",
+        "optionB": "Pisces",
+        "optionC": "Capricorn",
+        "optionD": "Scorpio"
+        
+    },
+    {
+        "question": "Which of the following buildings is example of a structure primarily built in the Art Deco architectural style?",
+        "answer": "Niagara Mohawk Building",
+        "optionA": "Niagara Mohawk Building",
+        "optionB":"Taipei 101",
+        "optionC": "One Detroit Center",
+        "optionD": "Westendstrasse 1"
+        
+    },
+    {
+        "question": "What is the world&#039;s most expensive spice by weight?",
+        "answer": "Saffron",
+        "optionA": "Saffron",
+        "optionB": "Cinnamon",
+        "optionC": "Cardamom",
+        "optionD": "Vanilla"
+        
+    },
+    {
+        "question": "What was the name given to Japanese military dictators who ruled the country through the 12th and 19th Century?",
+        "answer": "Shogun",
+        "optionA": "Shogun",
+        "optionB": "Ninja",
+        "optionC": "Samurai",
+        "optionD": "Shinobi"
+        
+    },
+    {
+        "question": "Amsterdam Centraal station is twinned with what station?",
+        "answer": "London Liverpool Street",
+        "optionA": "London Liverpool Street",
+        "optionB": "Frankfurt (Main) Hauptbahnhof",
+        "optionC": "Paris Gare du Nord",
+        "optionD": "Brussels Midi"
+        
+    },
+    {
+        "question": "Scotch whisky and Drambuie make up which cocktail?",
+        "answer": "Rusty Nail",
+        "optionA": "Rusty Nail",
+        "optionB": "Screwdriver",
+        "optionC": "Sex on the Beach",
+        "optionD": "Manhattan"
+        
+    },
+    {
+        "question": "Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?",
+        "answer": "Hewlett-Packard",
+        "optionA": "Hewlett-Packard",
+        "optionB": "Toshiba",
+        "optionC": "Asus",
+        "optionD": "Dell"
+        
+    },
+    {
+        "question": "What was the original name of the search engine &quot;Google&quot;?",
+        "answer": "BackRub",
+        "optionA": "BackRub",
+        "optionB": "CatMassage",
+        "optionC": "SearchPro",
+        "optionD": "Netscape Navigator"
+        
+    },
+    {
+        "question": "Which essential condiment is also known as Japanese horseradish?",
+        "answer": "Wasabi ",
+        "optionA": "Wasabi ",
+        "optionB": "Mentsuyu",
+        "optionC": "Karashi",
+        "optionD": "Ponzu"
+        
+    },
+    {
+        "question": "When did the website &quot;Facebook&quot; launch?",
+        "answer": "2004",
+        "optionA": "2004",
+        "optionB": "2005",
+        "optionC": "2003",
+        "optionD": "2006"
+        
+    },
+    {
+        "question": "Which of these is the name of a Japanese system of alternative medicine, literally meaning &quot;finger pressure&quot;?",
+        "answer": "Shiatsu",
+        "optionA": "Shiatsu",
+        "optionB": "Ukiyo",
+        "optionC": "Majime",
+        "optionD": "Ikigai"
+        
+    },
+    {
+        "question": "What is a &quot;dakimakura&quot;?",
+        "answer": "A body pillow",
+        "optionA": "A body pillow",
+        "optionB": "A Chinese meal, essentially composed of fish",
+        "optionC": "A yoga posture",
+        "optionD": "A word used to describe two people who truly love each other"
+        
+    }
+]
