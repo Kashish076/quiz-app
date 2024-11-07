@@ -330,7 +330,7 @@ class Play extends Component {
             hintsUsed: 5 - state.hints
         };
         setTimeout(() => {
-            this.props.history.push('/play/quizSummary', playerStats);
+            this.props.history.push('/play/quiz-summary', playerStats);
         }, 1000);
     }
 

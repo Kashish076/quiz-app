@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import { createBrowserHistory } from 'history'; // Import createBrowserHistory
+import { createBrowserHistory } from 'history';
 
 import Home from './components/Home';
 import QuizInstructions from './components/quiz/QuizInstructions';
